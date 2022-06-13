@@ -1,5 +1,26 @@
 ### Hi there 👋
 
+My name is soumik. I'm a computer science graduate. And a full stack developer.<br/> 
+<br/>
+Currently working on a MedTech startup and open to job opportunities.<br/>
+How to reach me:
+<div id="badges">
+  <a href="https://www.linkedin.com/in/soumik-datta/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/soumik_1100001" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=black" alt="Twitter Badge"/>
+  </a>
+</div>
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumikdemo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
 <!--
 **soumikdemo/soumikdemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
