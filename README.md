@@ -8,7 +8,7 @@ How to reach me:
   <a href="https://www.linkedin.com/in/soumik-datta/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/soumik_1100001" target="_blank">
+  <a href="https://twitter.com/findsoumik" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=black" alt="Twitter Badge"/>
   </a>
 </div>
