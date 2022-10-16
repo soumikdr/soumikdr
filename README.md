@@ -2,7 +2,7 @@
 
 My name is soumik. I'm a computer science graduate. And a full stack developer.<br/> 
 <br/>
-Currently working on a MedTech startup and open to job opportunities.<br/>
+Currently working as a backend opportunities.<br/>
 How to reach me:
 <div id="badges">
   <a href="https://www.linkedin.com/in/soumik-datta/" target="_blank">
