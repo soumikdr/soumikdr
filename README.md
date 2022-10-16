@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 My name is soumik. I'm a computer science graduate. And a full stack developer.<br/> 
+Interested in Php, Golang, Rust, Javascript, Python, C# etc.
 <br/>
-Currently working as a backend opportunities.<br/>
+<br/>
 How to reach me:
 <div id="badges">
   <a href="https://www.linkedin.com/in/soumik-datta/" target="_blank">
