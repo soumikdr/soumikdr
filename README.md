@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is soumik. I'm a computer science graduate. And a full stack developer.<br/> 
+My name is soumik. I'm an Advanced Software Engineering master's student. And a full-stack developer.<br/> 
 Interested in Php, Golang, Rust, Javascript, Python, C# etc.
 <br/>
 <br/>
