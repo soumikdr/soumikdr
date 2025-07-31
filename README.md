@@ -1,8 +1,16 @@
-### Hi there 👋
+### Hi there 👋 
 
-My name is soumik. I'm an Advanced Software Engineering master's student. And a full-stack developer.<br/> 
-Interested in Php, Golang, Rust, Javascript, Python, C# etc.
+My name is Soumik Datta. I'm an Advanced Software Engineering postgraduate. And a Software Engineer.<br/> 
+Interested in Php, Javascript, Python, C#, Golang etc.
 <br/>
+<br/>
+
+This site is currently under construction 🏗️<br/> 
+I'm excited to bring you a comprehensive overview of my work, projects, and experiences soon.
+<br/>
+<br/>
+
+In the meantime, feel free to connect with me!
 <br/>
 How to reach me:
 <div id="badges">
