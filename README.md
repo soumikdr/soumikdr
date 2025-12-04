@@ -1,12 +1,7 @@
 ### Hi there 👋 
 
-My name is Soumik Datta. I'm an Advanced Software Engineering postgraduate. And a Software Engineer.<br/> 
+My name is Soumik Datta. I'm a Software Engineer.<br/> 
 Interested in Php, Javascript, Python, C#, Golang etc.
-<br/>
-<br/>
-
-This site is currently under construction 🏗️<br/> 
-I'm excited to bring you a comprehensive overview of my work, projects, and experiences soon.
 <br/>
 <br/>
 
