@@ -5,8 +5,6 @@ Interested in Php, Javascript, Python, C#, Golang etc.
 <br/>
 <br/>
 
-In the meantime, feel free to connect with me!
-<br/>
 How to reach me:
 <div id="badges">
   <a href="https://www.linkedin.com/in/soumik-datta/" target="_blank">
